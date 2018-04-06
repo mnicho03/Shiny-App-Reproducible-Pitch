@@ -1,8 +1,7 @@
 # Shiny-App-Reproducible-Pitch
 Developing Data Products Course Project - Johns Hopkins Data Science Specialization
 
-Application Hosted on Shiny Server at: 
-#### https://michaelnichols16.shinyapps.io/predicting_diabetes_coursera/
+Application Hosted on Shiny Server at: https://michaelnichols16.shinyapps.io/predicting_diabetes_coursera/
 
 Presentation / tutorial of the application: http://rpubs.com/michaelnichols16/predicting_diabetes_coursera
 
