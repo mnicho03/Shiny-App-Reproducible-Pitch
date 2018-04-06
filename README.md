@@ -10,9 +10,9 @@ Application features a prediction model using logistic regression to reveal a pr
 ### Based on the test set, the model provides 81% accuracy. 
 
 Beyond the percentage likelihood the individual would receive a positive diagnosis, the application includes a 3-tab collection of plots. 
-1. Plot 1: Reactive Plot
+1. Reactive Plot
 - Based on the records highlighted on the plot, a best fit line appears showing the relationship between glucose levels and the model's prediction probability of a positive diabetes diagnosis.
-2. Plot 2: Glucose Relationship
+2. Glucose Relationship
 - Spread of glucose levels compared to the model's prediction probability of a positive diabetes diagnosis. This chart is color-coded based on the actual diabetes status. A confidence interval is displayed based on the data.
-3. Plot 3: Variable Importance Plot
+3. Variable Importance Plot
 - Chart to visualize the most significant features to train the logistic regression model.
