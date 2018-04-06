@@ -4,6 +4,8 @@ Developing Data Products Course Project - Johns Hopkins Data Science Specializat
 Application Hosted on Shiny Server at: 
 #### https://michaelnichols16.shinyapps.io/predicting_diabetes_coursera/
 
+Presentation / tutorial of the application: http://rpubs.com/michaelnichols16/predicting_diabetes_coursera
+
 # Purpose
 Application features a prediction model using logistic regression to reveal a probability that an individual would receive a positive diabetes diagnosis based on the Pima Indian Diabetes Dataset from the UCI Machine Learning Dataset Repository.
 
